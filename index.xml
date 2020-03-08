@@ -6,9 +6,20 @@
     <description>Recent content on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 08 Mar 2020 15:22:46 +0800</lastBuildDate>
     
 	<atom:link href="https://zhangxuhua1213.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1</title>
+      <link>https://zhangxuhua1213.github.io/hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 08 Mar 2020 15:22:46 +0800</pubDate>
+      
+      <guid>https://zhangxuhua1213.github.io/hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>hugo个人博客 1.在Hugo/myblog目录使用命令,hugo-grapes是下载好的项目模块名称 url是你自己新建库的名称 hugo --theme=hugo-swift-theme --buildDrafts --baseUrl=&amp;quot;https://zhangxuhua1213.github.io/&amp;quot;
+2.系统会生成一个public文件,这里面就是你网页中的内容,我们进入public文件中. 3.将public刷新到站点中 git push https://github.com/zhangxuhua1213/zhangxuhua1213.github.io master</description>
+    </item>
     
   </channel>
 </rss>
