@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on 个人博客</title>
+    <link>https://zhangxuhua1213.github.io/categories/java/</link>
+    <description>Recent content in java on 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 08 Mar 2020 19:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhangxuhua1213.github.io/categories/java/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>annotation</title>
+      <link>https://zhangxuhua1213.github.io/post/annotation/</link>
+      <pubDate>Sun, 08 Mar 2020 19:00:00 +0800</pubDate>
+      
+      <guid>https://zhangxuhua1213.github.io/post/annotation/</guid>
+      <description>注解 注解(Annotation)是 Java1.5 中引入的一个重大修改之一，为我们在代码中添加信息提供了一种形式化的方法，使我们可以在稍后某个时刻非常方便</description>
+    </item>
+    
+    <item>
+      <title>BlockingQueue</title>
+      <link>https://zhangxuhua1213.github.io/post/blockqueue/</link>
+      <pubDate>Sun, 08 Mar 2020 19:00:00 +0800</pubDate>
+      
+      <guid>https://zhangxuhua1213.github.io/post/blockqueue/</guid>
+      <description>BlockingQueue BlockingQueue 支持当获取队列元素但是队列为空时，会阻塞等待队列中有元素再返回；也支持添加元素时，如果队列已满，那么等到队列可以放入新元素时再放入。 其提</description>
+    </item>
+    
+  </channel>
+</rss>
